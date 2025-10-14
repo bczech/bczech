@@ -5,7 +5,7 @@
 
 🛠️ My Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=r,py,anaconda,apple,bash,bitbucket,discord,docker,git,github,gitlab,gmail,html,ai,instagram,latex,linkedin,linux,mysql,perlpowershell,pycharm,pytorch,regex,sqlite,stackoverflow,sklearn,tensorflow,ubuntu,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=r,py,anaconda,apple,bash,bitbucket,discord,docker,git,github,gitlab,gmail,html,ai,instagram,latex,linkedin,linux,mysql,perl,powershell,pycharm,pytorch,regex,sqlite,stackoverflow,sklearn,tensorflow,ubuntu,vscode)](https://skillicons.dev)
 
 📊 My GitHub Stats
 
