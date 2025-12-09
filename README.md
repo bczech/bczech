@@ -2,23 +2,25 @@
 
 # Hi there, I'm Bartosz Czech 👋
 
+### Senior Bioinformatician | Product Owner | PhD 🇵🇱
+
 <div align="center">
 
-  <a href="https://scholar.google.com/citations?user=TWOJE_ID_GOOGLE">
+  <a href="https://scholar.google.com/citations?user=JYaz528AAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
   </a>
   
-  <a href="https://orcid.org/0000-XXXX-XXXX-XXXX">
+  <a href="https://orcid.org/0000-0002-9908-3007">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
   </a>
 
-  <a href="https://www.researchgate.net/profile/Bartosz-Czech">
+  <a href="[https://www.researchgate.net/profile/Bartosz-Czech](https://www.researchgate.net/profile/Bartosz-Czech)">
     <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate"/>
   </a>
 
 </div>
 
-### Senior Bioinformatician | Product Owner | PhD 🇵🇱
+<br/><br/>
 
 <a href="https://bczech.github.io/">
   <img src="https://img.shields.io/badge/🚀_View_My_Interactive_Portfolio-2c3e50?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
