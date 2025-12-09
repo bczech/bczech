@@ -4,9 +4,7 @@
 
 ### Senior Bioinformatician | Computational Biologist | PhD 🇵🇱
 
-<a href="https://bczech.github.io/">
-  <img src="https://img.shields.io/badge/🚀_View_My_Interactive_Portfolio-2c3e50?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
-</a>
+[![My Skills](https://skillicons.dev/icons?i=r,py,anaconda,apple,bash,bitbucket,discord,docker,git,github,gitlab,gmail,html,ai,instagram,latex,linkedin,linux,mysql,perl,powershell,pycharm,pytorch,regex,sqlite,stackoverflow,sklearn,tensorflow,ubuntu,vscode)](https://skillicons.dev)
 
 <br/><br/>
 
