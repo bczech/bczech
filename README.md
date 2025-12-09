@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there, I'm Bartosz Czech 👋
+# Hi there, I'm Bartek 👋
 
-### Senior Bioinformatician | Product Owner | PhD 🇵🇱
+### Senior Bioinformatician | Computational Biologist | PhD 🇵🇱
 
 <div align="center">
 
