@@ -50,3 +50,11 @@ Bridging the gap between complex biology and actionable data insights.
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bczech&layout=compact&theme=radical&hide_border=true&bg_color=00000000" height="150" alt="Top Languages" />
 </div>
+
+### 🐍 My Coding Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bczech/bczech/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bczech/bczech/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bczech/bczech/output/github-contribution-grid-snake.svg">
+</picture>
