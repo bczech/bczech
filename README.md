@@ -58,3 +58,9 @@ Bridging the gap between complex biology and actionable data insights.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bczech/bczech/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bczech/bczech/output/github-contribution-grid-snake.svg">
 </picture>
+
+### Profile Views 👀
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=bczech&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views" />
+</div>
