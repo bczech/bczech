@@ -2,6 +2,22 @@
 
 # Hi there, I'm Bartosz Czech 👋
 
+<div align="center">
+
+  <a href="https://scholar.google.com/citations?user=TWOJE_ID_GOOGLE">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
+  </a>
+  
+  <a href="https://orcid.org/0000-XXXX-XXXX-XXXX">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
+  </a>
+
+  <a href="https://www.researchgate.net/profile/Bartosz-Czech">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate"/>
+  </a>
+
+</div>
+
 ### Senior Bioinformatician | Product Owner | PhD 🇵🇱
 
 <a href="https://bczech.github.io/">
@@ -13,7 +29,7 @@
 I specialize in **NGS Data Analysis**, **R/Shiny Development**, and **Cloud Infrastructure** for Pharma R&D.  
 Bridging the gap between complex biology and actionable data insights.
 
-[<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/bartosz-czech-bioinformatics/)
+[<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">](https://pl.linkedin.com/in/bczech)
 
 </div>
 
