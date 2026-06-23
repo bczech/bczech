@@ -29,6 +29,24 @@ Bridging the gap between complex biology, scalable IT infrastructure, and action
 
 ---
 
+### 📦 Featured Project
+
+<div align="center">
+  <a href="https://github.com/bczech/ggwas">
+    <img src="https://raw.githubusercontent.com/bczech/ggwas/main/man/figures/logo.png" height="120" alt="ggwas logo" />
+  </a>
+  <br/>
+  <a href="https://github.com/bczech/ggwas"><strong>ggwas</strong></a> — Modern ggplot2 visualizations for GWAS summary statistics
+  <br/>
+  15 plot types · gene annotation · journal themes · smart downsampling
+  <br/><br/>
+  <a href="https://github.com/bczech/ggwas"><img src="https://img.shields.io/badge/GitHub-ggwas-1A5276?style=flat-square&logo=github" alt="GitHub"/></a>
+  <a href="https://bczech.github.io/ggwas/"><img src="https://img.shields.io/badge/Docs-Website-38EBC1?style=flat-square" alt="Docs"/></a>
+  <a href="https://doi.org/10.5281/zenodo.20815110"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20815110-blue?style=flat-square" alt="DOI"/></a>
+</div>
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
