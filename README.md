@@ -36,9 +36,9 @@ Bridging the gap between complex biology, scalable IT infrastructure, and action
     <img src="https://raw.githubusercontent.com/bczech/ggwas/main/man/figures/logo.png" height="120" alt="ggwas logo" />
   </a>
   <br/>
-  <a href="https://github.com/bczech/ggwas"><strong>ggwas</strong></a> — Modern ggplot2 visualizations for GWAS summary statistics
+  <a href="https://github.com/bczech/ggwas"><strong>ggwas</strong></a> — Comprehensive ggplot2 toolkit for GWAS visualization
   <br/>
-  15 plot types · gene annotation · journal themes · smart downsampling
+  Manhattan · QQ · PheWAS · fine-mapping · genetic correlations · and more
   <br/><br/>
   <a href="https://github.com/bczech/ggwas"><img src="https://img.shields.io/badge/GitHub-ggwas-1A5276?style=flat-square&logo=github" alt="GitHub"/></a>
   <a href="https://bczech.github.io/ggwas/"><img src="https://img.shields.io/badge/Docs-Website-38EBC1?style=flat-square" alt="Docs"/></a>
