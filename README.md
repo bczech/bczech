@@ -36,10 +36,11 @@ Bridging the gap between complex biology, scalable IT infrastructure, and action
     <img src="https://raw.githubusercontent.com/bczech/ggwas/main/man/figures/logo.png" height="120" alt="ggwas logo" />
   </a>
   <br/>
-  <a href="https://github.com/bczech/ggwas"><strong>ggwas</strong></a> — Comprehensive ggplot2 toolkit for GWAS visualization
+  <a href="https://github.com/bczech/ggwas"><strong>ggwas</strong></a> — Comprehensive ggplot2 toolkit for GWAS visualization, now in Bioconductor
   <br/>
   Manhattan · QQ · PheWAS · fine-mapping · genetic correlations · and more
   <br/><br/>
+  <a href="https://bioconductor.org/packages/devel/bioc/html/ggwas.html"><img src="https://img.shields.io/badge/Bioconductor-devel-1A81C2?style=flat-square" alt="Bioconductor"/></a>
   <a href="https://github.com/bczech/ggwas"><img src="https://img.shields.io/badge/GitHub-ggwas-1A5276?style=flat-square&logo=github" alt="GitHub"/></a>
   <a href="https://bczech.github.io/ggwas/"><img src="https://img.shields.io/badge/Docs-Website-38EBC1?style=flat-square" alt="Docs"/></a>
   <a href="https://doi.org/10.5281/zenodo.20815110"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20815110-blue?style=flat-square" alt="DOI"/></a>
